@@ -4,7 +4,12 @@
 Proposers
 
 ## Type ##
-**Feature**  (do not modify)
+**Feature** (do not modify)
+
+## Target MDG/TF ##
+**(Optional)**
+
+If the feature targets a specific module or task force, select one or more from {Unknown, UI, SO, RO, VCA, DevOp}
 
 ## Description ##
 Detailed description
